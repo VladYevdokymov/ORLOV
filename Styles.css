@@ -70,7 +70,7 @@ li {
 
 .header-menu__link {
     font-size: 18px;
-    line-height: 23.4px;
+    line-height: 23.4px; 
     text-decoration: none;
     color: white;
     transition: all 0.3s ease;
@@ -85,7 +85,7 @@ li {
     margin: 0 auto;
     width: 1400px;
     height: 765px;
-    background-image: url("/resources/photo-sacha.png");
+    background-image: url("/resources/sacha.png");
     background-repeat: no-repeat;
 
 }
