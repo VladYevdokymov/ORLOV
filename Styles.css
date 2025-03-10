@@ -85,7 +85,7 @@ li {
     margin: 0 auto;
     width: 1400px;
     height: 765px;
-    background-image: url("../resources/photo-sacha.png") ;
+    background-image: url("/resources/photo-sacha.png");
     background-repeat: no-repeat;
 
 }
